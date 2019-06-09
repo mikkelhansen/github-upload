@@ -1,0 +1,26 @@
+{
+  "name": "github-upload",
+  "version": "1.0.0",
+  "description": "Simple \"Hello World\" app built with Express JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkelhansen/github-upload.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Mikkel Hansen <mikkelhansen@outlook.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikkelhansen/github-upload/issues"
+  },
+  "homepage": "https://github.com/mikkelhansen/github-upload#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
